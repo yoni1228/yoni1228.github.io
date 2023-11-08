@@ -1,8 +1,8 @@
 ---
-title:  "[Jekyll] 블로그 포스팅하는 방법"
+title:  "[Jekyll] 블로그 포스팅하는 방법!!"
 search: false
 categories: 
-  - Blog
+  - Coding Test
 last_modified_at: 2023-11-08
 ---
 
