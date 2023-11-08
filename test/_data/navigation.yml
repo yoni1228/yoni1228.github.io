@@ -59,3 +59,13 @@ sidebar-sample:
         url: /child-page-d2/
       - title: "Child Page D3 (External)"
         url: https://your-domain.com
+  
+sidebar-category:
+  - title: "카테고리"
+    children:
+      - title: "Coding Test"
+        url:  "/Coding Test"
+      - title: "C++"
+        url:  "/C+"
+      - title: "C#"
+        url:  "/C#"
